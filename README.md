@@ -6,8 +6,8 @@ Langkah-langkah Manual Instalasi
 5. Download database yang digunakan yaitu dwouts.sql yang juga sudah terdapat di folder .zip yg telah di download
 6. Akses http://localhost/phpmyadmin/ lalu buat database baru dengan nama whadventureworks
 7. Import database whadventureworks.sql ke dalam database dwouts yg berada di phpmyadmin
-8. Sebelum mengakses website, pindahkan folder mondrian2 yang berada di dalam folder.zip yang sudah di download
-9. Letakkan folder mondrian2 pada directory C:\xampp\tomcat\webapps\
+8. Sebelum mengakses website, pindahkan folder mondrian yang berada di dalam folder.zip yang sudah di download
+9. Letakkan folder mondrian pada directory C:\xampp\tomcat\webapps\
 10. Jangan lupa untuk melakukan start pada Apache, MySQL, dan Tomcat yang berada pada XAMPP
 11. Jalankan dashboard dengan mengakses http://localhost/Dashboard-Warehouse-Adventureworks/
 12. Selamat mengexplore aplikasi dashboard yang telah dibuat

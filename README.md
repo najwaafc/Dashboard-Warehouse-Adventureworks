@@ -1,4 +1,3 @@
-# Dashboard-Warehouse-Adventureworks
 Langkah-langkah Manual Instalasi
 1. Download dan install XAMPP untuk menjalankan Apache, MySQL, dan Tomcat
 2. Download PHP dengan versi terbaru

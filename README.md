@@ -14,10 +14,10 @@ Langkah-langkah Manual Instalasi
 
 KELOMPOK 4 - KELAS C
 
-Faradila Kusuma Dewi       (21082010085)
-Najwa Fathiro Cahyono      (21082010102)
-Khurrotul ‘Uyun            (21082010109)
-Safitri Pradhistya Suwandi (21082010119)
+1. Faradila Kusuma Dewi       (21082010085)
+2. Najwa Fathiro Cahyono      (21082010102)
+3. Khurrotul ‘Uyun            (21082010109)
+4. Safitri Pradhistya Suwandi (21082010119)
 
 PROGRAM STUDI SISTEM INFORMASI
 FAKULTAS ILMU KOMPUTER

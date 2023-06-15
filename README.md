@@ -9,5 +9,5 @@ Langkah-langkah Manual Instalasi
 8. Sebelum mengakses website, pindahkan folder mondrian2 yang berada di dalam folder.zip yang sudah di download
 9. Letakkan folder mondrian2 pada directory C:\xampp\tomcat\webapps\
 10. Jangan lupa untuk melakukan start pada Apache, MySQL, dan Tomcat yang berada pada XAMPP
-11. Jalankan dashboard dengan mengakses http://localhost/dwoaw/
+11. Jalankan dashboard dengan mengakses http://localhost/Dashboard-Warehouse-Adventureworks/
 12. Selamat mengexplore aplikasi dashboard yang telah dibuat
